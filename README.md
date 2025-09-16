@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./chip8-ufo-demo.gif" alt="CHIP-8 UFO Demo" width="500"/>
+</p>
+
 What this project is...
 
 A clean, single file CHIP8 emulator built for readability and teachability,
